@@ -1,0 +1,7 @@
+<apex:page controller="Apex1">
+
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>First Page</h1>
+  This is the first sample.
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

@@ -1,0 +1,4 @@
+public with sharing class EclipseSamp {
+    public String word() {
+    return 'Apex Sample!';
+  }

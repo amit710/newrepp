@@ -1,0 +1,6 @@
+<apex:page >
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Sample2</h1>
+  This is your Second sample Page
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

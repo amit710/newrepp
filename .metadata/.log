@@ -1,0 +1,2579 @@
+!SESSION 2016-08-11 17:40:34.015 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-08-11 17:41:05.928
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\amit.vasudevan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:10.072
+!MESSAGE  WARN [2016-08-11 17:42:10,072] (BaseRetryAspect.java:isLoginExceptionRetryable:115) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:10.072
+!MESSAGE  WARN [2016-08-11 17:42:10,072] (BaseRetryAspect.java:isConnectionExceptionRetryable:150) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:10.082
+!MESSAGE  WARN [2016-08-11 17:42:10,072] (ProjectController.java:getRemotePackageNames:930) - Unable to get project packages for project 'New': Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:10.102
+!MESSAGE  WARN [2016-08-11 17:42:10,092] (ProjectOrganizationPage.java:prepareNextPage:263) - Unable to login: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:22.852
+!MESSAGE  WARN [2016-08-11 17:42:22,842] (BaseRetryAspect.java:isLoginExceptionRetryable:115) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:22.852
+!MESSAGE  WARN [2016-08-11 17:42:22,852] (BaseRetryAspect.java:isConnectionExceptionRetryable:150) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:22.852
+!MESSAGE  WARN [2016-08-11 17:42:22,852] (ProjectController.java:getRemotePackageNames:930) - Unable to get project packages for project 'New': Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:22.873
+!MESSAGE  WARN [2016-08-11 17:42:22,873] (ProjectOrganizationPage.java:prepareNextPage:263) - Unable to login: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.711
+!MESSAGE  WARN [2016-08-11 17:42:46,711] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.721
+!MESSAGE  WARN [2016-08-11 17:42:46,721] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.731
+!MESSAGE  WARN [2016-08-11 17:42:46,721] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.751
+!MESSAGE  WARN [2016-08-11 17:42:46,731] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.751
+!MESSAGE  WARN [2016-08-11 17:42:46,751] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.761
+!MESSAGE  WARN [2016-08-11 17:42:46,751] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.761
+!MESSAGE  WARN [2016-08-11 17:42:46,761] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.771
+!MESSAGE  WARN [2016-08-11 17:42:46,771] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.771
+!MESSAGE  WARN [2016-08-11 17:42:46,771] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.771
+!MESSAGE  WARN [2016-08-11 17:42:46,771] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.771
+!MESSAGE  WARN [2016-08-11 17:42:46,771] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.781
+!MESSAGE  WARN [2016-08-11 17:42:46,771] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.781
+!MESSAGE  WARN [2016-08-11 17:42:46,781] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.781
+!MESSAGE  WARN [2016-08-11 17:42:46,781] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.781
+!MESSAGE  WARN [2016-08-11 17:42:46,781] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.781
+!MESSAGE  WARN [2016-08-11 17:42:46,781] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:46.841
+!MESSAGE  WARN [2016-08-11 17:42:46,781] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.841
+!MESSAGE  WARN [2016-08-11 17:42:47,841] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.841
+!MESSAGE  WARN [2016-08-11 17:42:47,841] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.841
+!MESSAGE  WARN [2016-08-11 17:42:47,841] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.842
+!MESSAGE  WARN [2016-08-11 17:42:47,842] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.842
+!MESSAGE  WARN [2016-08-11 17:42:47,842] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.842
+!MESSAGE  WARN [2016-08-11 17:42:47,842] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.842
+!MESSAGE  WARN [2016-08-11 17:42:47,842] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.845
+!MESSAGE  WARN [2016-08-11 17:42:47,844] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.847
+!MESSAGE  WARN [2016-08-11 17:42:47,846] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.848
+!MESSAGE  WARN [2016-08-11 17:42:47,847] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.861
+!MESSAGE  WARN [2016-08-11 17:42:47,860] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.862
+!MESSAGE  WARN [2016-08-11 17:42:47,862] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.864
+!MESSAGE  WARN [2016-08-11 17:42:47,863] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.866
+!MESSAGE  WARN [2016-08-11 17:42:47,865] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.868
+!MESSAGE  WARN [2016-08-11 17:42:47,867] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.870
+!MESSAGE  WARN [2016-08-11 17:42:47,869] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:42:47.872
+!MESSAGE  WARN [2016-08-11 17:42:47,871] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY org.eclipse.equinox.security 1 0 2016-08-11 17:42:52.312
+!MESSAGE New keyring password generated. 
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 17:51:23.074
+!MESSAGE  WARN [2016-08-11 17:51:23,067] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:28:45.708
+!MESSAGE  WARN [2016-08-11 18:28:45,699] (ComponentFactory.java:getCompositeComponentFromComponent:1098) - Unable to load existing 'pages/cf.page-meta.xml' from project - associated component's file resource is null.  Assuming new.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:28:45.748
+!MESSAGE  WARN [2016-08-11 18:28:45,747] (ComponentController.java:deploy:447) - Remote save aborted - project is not online enabled
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:28:45.759
+!MESSAGE  WARN [2016-08-11 18:28:45,758] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\amit.vasudevan\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\New\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:28:45.762
+!MESSAGE  WARN [2016-08-11 18:28:45,760] (ComponentController.java:run:425) - Unable to update cache with new component Visualforce Page - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:28:45.950
+!MESSAGE  WARN [2016-08-11 18:28:45,948] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.067
+!MESSAGE  WARN [2016-08-11 18:30:45,066] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.069
+!MESSAGE  WARN [2016-08-11 18:30:45,068] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.075
+!MESSAGE  WARN [2016-08-11 18:30:45,073] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.076
+!MESSAGE  WARN [2016-08-11 18:30:45,075] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.079
+!MESSAGE  WARN [2016-08-11 18:30:45,078] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.089
+!MESSAGE  WARN [2016-08-11 18:30:45,088] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.102
+!MESSAGE  WARN [2016-08-11 18:30:45,101] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.121
+!MESSAGE  WARN [2016-08-11 18:30:45,120] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.125
+!MESSAGE  WARN [2016-08-11 18:30:45,124] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.126
+!MESSAGE  WARN [2016-08-11 18:30:45,125] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.132
+!MESSAGE  WARN [2016-08-11 18:30:45,131] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.135
+!MESSAGE  WARN [2016-08-11 18:30:45,134] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.137
+!MESSAGE  WARN [2016-08-11 18:30:45,136] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.138
+!MESSAGE  WARN [2016-08-11 18:30:45,137] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.139
+!MESSAGE  WARN [2016-08-11 18:30:45,138] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.141
+!MESSAGE  WARN [2016-08-11 18:30:45,140] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:45.142
+!MESSAGE  WARN [2016-08-11 18:30:45,141] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.130
+!MESSAGE  WARN [2016-08-11 18:30:46,129] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.132
+!MESSAGE  WARN [2016-08-11 18:30:46,131] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.134
+!MESSAGE  WARN [2016-08-11 18:30:46,133] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.135
+!MESSAGE  WARN [2016-08-11 18:30:46,134] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.138
+!MESSAGE  WARN [2016-08-11 18:30:46,136] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.142
+!MESSAGE  WARN [2016-08-11 18:30:46,141] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.147
+!MESSAGE  WARN [2016-08-11 18:30:46,145] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.152
+!MESSAGE  WARN [2016-08-11 18:30:46,150] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.154
+!MESSAGE  WARN [2016-08-11 18:30:46,153] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.162
+!MESSAGE  WARN [2016-08-11 18:30:46,161] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.165
+!MESSAGE  WARN [2016-08-11 18:30:46,164] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.167
+!MESSAGE  WARN [2016-08-11 18:30:46,166] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.169
+!MESSAGE  WARN [2016-08-11 18:30:46,168] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.170
+!MESSAGE  WARN [2016-08-11 18:30:46,169] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.171
+!MESSAGE  WARN [2016-08-11 18:30:46,170] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.172
+!MESSAGE  WARN [2016-08-11 18:30:46,171] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:30:46.174
+!MESSAGE  WARN [2016-08-11 18:30:46,173] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:51:30.384
+!MESSAGE  WARN [2016-08-11 18:51:30,382] (ComponentFactory.java:getCompositeComponentFromComponent:1098) - Unable to load existing 'classes/EclipseSamp.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:51:30.422
+!MESSAGE  WARN [2016-08-11 18:51:30,421] (ComponentController.java:deploy:447) - Remote save aborted - project is not online enabled
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:51:30.427
+!MESSAGE  WARN [2016-08-11 18:51:30,425] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\amit.vasudevan\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\New\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:51:30.428
+!MESSAGE  WARN [2016-08-11 18:51:30,427] (ComponentController.java:run:425) - Unable to update cache with new component Apex Class - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:51:30.619
+!MESSAGE  WARN [2016-08-11 18:51:30,618] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:54:28.771
+!MESSAGE  WARN [2016-08-11 18:54:28,768] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:54:56.778
+!MESSAGE  WARN [2016-08-11 18:54:56,771] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:55:22.189
+!MESSAGE  WARN [2016-08-11 18:55:22,189] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:56:17.470
+!MESSAGE  WARN [2016-08-11 18:56:17,469] (ComponentFactory.java:getCompositeComponentFromComponent:1098) - Unable to load existing 'pages/EclipseVFPage.page-meta.xml' from project - associated component's file resource is null.  Assuming new.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:56:17.503
+!MESSAGE  WARN [2016-08-11 18:56:17,502] (ComponentController.java:deploy:447) - Remote save aborted - project is not online enabled
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:56:17.510
+!MESSAGE  WARN [2016-08-11 18:56:17,510] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\amit.vasudevan\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\New\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:56:17.512
+!MESSAGE  WARN [2016-08-11 18:56:17,511] (ComponentController.java:run:425) - Unable to update cache with new component Visualforce Page - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:56:17.650
+!MESSAGE  WARN [2016-08-11 18:56:17,650] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:57:50.575
+!MESSAGE  WARN [2016-08-11 18:57:50,575] (ComponentFactory.java:getCompositeComponentFromComponent:1098) - Unable to load existing 'triggers/EclipseTrigger.trigger-meta.xml' from project - associated component's file resource is null.  Assuming new.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:57:50.615
+!MESSAGE  WARN [2016-08-11 18:57:50,615] (ComponentController.java:deploy:447) - Remote save aborted - project is not online enabled
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:57:50.616
+!MESSAGE  WARN [2016-08-11 18:57:50,616] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\amit.vasudevan\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\New\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:57:50.616
+!MESSAGE  WARN [2016-08-11 18:57:50,616] (ComponentController.java:run:425) - Unable to update cache with new component Apex Trigger - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 18:57:50.754
+!MESSAGE  WARN [2016-08-11 18:57:50,754] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY org.eclipse.help.base 4 4 2016-08-11 19:11:38.178
+!MESSAGE Help documentation could not be indexed completely.
+!SUBENTRY 1 org.eclipse.help.base 4 4 2016-08-11 19:11:38.178
+!MESSAGE Help document /com.salesforce.ide.documentation/ide_about_perspective.htm cannot be opened.
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:17:03.392
+!MESSAGE  WARN [2016-08-11 19:17:03,392] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:21:16.552
+!MESSAGE  WARN [2016-08-11 19:21:16,551] (ComponentFactory.java:getCompositeComponentFromComponent:1098) - Unable to load existing 'classes/classss.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:21:16.594
+!MESSAGE  WARN [2016-08-11 19:21:16,593] (ComponentController.java:deploy:447) - Remote save aborted - project is not online enabled
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:21:16.596
+!MESSAGE  WARN [2016-08-11 19:21:16,596] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\amit.vasudevan\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\New\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:21:16.597
+!MESSAGE  WARN [2016-08-11 19:21:16,596] (ComponentController.java:run:425) - Unable to update cache with new component Apex Class - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:21:16.738
+!MESSAGE  WARN [2016-08-11 19:21:16,737] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:21:40.510
+!MESSAGE  WARN [2016-08-11 19:21:40,510] (DefaultBuilder.java:applyDirtyMarkers:93) - TODO: apply 'Save locally only...' markers on each resource
+
+
+!ENTRY com.salesforce.ide.core 4 0 2016-08-11 19:22:24.935
+!MESSAGE ERROR [2016-08-11 19:22:24,925] (ProjectPackageList.java:generateComponents:483) - Filepath-zip mapping is null or empty for package 'unpackaged' [null] - skipping component generation
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:24:39.382
+!MESSAGE  WARN [2016-08-11 19:24:39,381] (ProjectPackageFactory.java:prepareProjectPackageList:252) - Project package list already contains component ApexClass 'classes/classss.cls' [unpackaged] for file 'src/classes/classss.cls'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:24:47.560
+!MESSAGE  WARN [2016-08-11 19:24:47,558] (ProjectPackageList.java:getComponentByMetadataFilePath:834) - Did not find component for 'classes/classss.cls'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:24:47.560
+!MESSAGE  WARN [2016-08-11 19:24:47,560] (ProjectService.java:handleRetrieveMessages:2176) - Unable to handle retrieve message - could not find component 'classes/classss.cls' for message 'In field: specific ids - no ApexClass named classss found'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:24:47.563
+!MESSAGE  WARN [2016-08-11 19:24:47,563] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\amit.vasudevan\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\New\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:24:47.564
+!MESSAGE  WARN [2016-08-11 19:24:47,563] (DeleteRefactorController.java:run:342) - Unable to update cache with with deleted component(s)  - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:25:56.633
+!MESSAGE  WARN [2016-08-11 19:25:56,632] (BuilderPayload.java:filterComponentsInConflict:272) - Retrieve result contains problem messages:
+ (1) classes/EclipseSamp.cls: In field: specific ids - no ApexClass named EclipseSamp found
+ (2) classes/EclipseSamp.cls-meta.xml: In field: specific ids - no ApexClass named EclipseSamp found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:25:56.635
+!MESSAGE  WARN [2016-08-11 19:25:56,634] (BuilderPayload.java:filterComponentsInConflict:276) - Remote retrieve result count [0] does not equal request count [2].
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:25:56.658
+!MESSAGE  WARN [2016-08-11 19:25:56,636] (ProjectPackageList.java:getComponentByFilePath:725) - Component not found - component list is null or empty or file path is null
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:25:56.659
+!MESSAGE  WARN [2016-08-11 19:25:56,658] (BuilderPayload.java:conflictCheck:317) - ApexClass 'classes/EclipseSamp.cls-meta.xml' [unpackaged] not found in remote project package list.  Assuming no conflict.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:25:56.662
+!MESSAGE  WARN [2016-08-11 19:25:56,659] (ProjectPackageList.java:getComponentByFilePath:725) - Component not found - component list is null or empty or file path is null
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 19:25:56.664
+!MESSAGE  WARN [2016-08-11 19:25:56,663] (BuilderPayload.java:conflictCheck:317) - ApexClass 'classes/EclipseSamp.cls' [unpackaged] not found in remote project package list.  Assuming no conflict.
+
+
+!ENTRY com.salesforce.ide.core 4 2 2016-08-11 19:32:03.553
+!MESSAGE Problems occurred when invoking code from plug-in: "com.salesforce.ide.core".
+!STACK 0
+java.lang.NullPointerException
+	at com.salesforce.ide.core.model.ComponentList.getComponentFactory(ComponentList.java:62)
+	at com.salesforce.ide.core.model.ComponentList.getComponentListForComponentType(ComponentList.java:266)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.collectDebuggerElements(SyncActionListener.java:154)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.invalidateApexModelManager(SyncActionListener.java:122)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.projectSync(SyncActionListener.java:114)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster$1.run(SyncServiceListenerBroadcaster.java:54)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.executeExtension(SyncServiceListenerBroadcaster.java:62)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.broadcast(SyncServiceListenerBroadcaster.java:40)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1212)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1129)
+	at com.salesforce.ide.core.services.ProjectService$1.run(ProjectService.java:2112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at com.salesforce.ide.core.services.ProjectService.handleRetrieveResult(ProjectService.java:2108)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshSourceFolder(RefreshResourceActionController.java:236)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshResources(RefreshResourceActionController.java:144)
+	at com.salesforce.ide.ui.handlers.RefreshResourceHandler$1.execute(RefreshResourceHandler.java:85)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.salesforce.ide.core 4 0 2016-08-11 19:32:03.576
+!MESSAGE ERROR [2016-08-11 19:32:03,573] (SyncServiceListenerBroadcaster.java:handleException:59) - Error executing a contributed ISyncServiceListener
+
+!STACK 0
+java.lang.NullPointerException
+	at com.salesforce.ide.core.model.ComponentList.getComponentFactory(ComponentList.java:62)
+	at com.salesforce.ide.core.model.ComponentList.getComponentListForComponentType(ComponentList.java:266)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.collectDebuggerElements(SyncActionListener.java:154)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.invalidateApexModelManager(SyncActionListener.java:122)
+	at com.salesforce.ide.debug.ui.sync.SyncActionListener.projectSync(SyncActionListener.java:114)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster$1.run(SyncServiceListenerBroadcaster.java:54)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:49)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:175)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.executeExtension(SyncServiceListenerBroadcaster.java:62)
+	at com.salesforce.ide.core.services.hooks.SyncServiceListenerBroadcaster.broadcast(SyncServiceListenerBroadcaster.java:40)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1212)
+	at com.salesforce.ide.core.model.ProjectPackageList.saveResources(ProjectPackageList.java:1129)
+	at com.salesforce.ide.core.services.ProjectService$1.run(ProjectService.java:2112)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at com.salesforce.ide.core.services.ProjectService.handleRetrieveResult(ProjectService.java:2108)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshSourceFolder(RefreshResourceActionController.java:236)
+	at com.salesforce.ide.ui.actions.RefreshResourceActionController.refreshResources(RefreshResourceActionController.java:144)
+	at com.salesforce.ide.ui.handlers.RefreshResourceHandler$1.execute(RefreshResourceHandler.java:85)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation$1.run(WorkspaceModifyOperation.java:106)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:118)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.542
+!MESSAGE  WARN [2016-08-11 21:02:11,542] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.602
+!MESSAGE  WARN [2016-08-11 21:02:11,542] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.612
+!MESSAGE  WARN [2016-08-11 21:02:11,602] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.612
+!MESSAGE  WARN [2016-08-11 21:02:11,612] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.622
+!MESSAGE  WARN [2016-08-11 21:02:11,622] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.632
+!MESSAGE  WARN [2016-08-11 21:02:11,632] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.635
+!MESSAGE  WARN [2016-08-11 21:02:11,633] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.651
+!MESSAGE  WARN [2016-08-11 21:02:11,650] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.654
+!MESSAGE  WARN [2016-08-11 21:02:11,653] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.656
+!MESSAGE  WARN [2016-08-11 21:02:11,655] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.661
+!MESSAGE  WARN [2016-08-11 21:02:11,660] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.664
+!MESSAGE  WARN [2016-08-11 21:02:11,663] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.665
+!MESSAGE  WARN [2016-08-11 21:02:11,664] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.666
+!MESSAGE  WARN [2016-08-11 21:02:11,665] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.667
+!MESSAGE  WARN [2016-08-11 21:02:11,666] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.668
+!MESSAGE  WARN [2016-08-11 21:02:11,668] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:11.669
+!MESSAGE  WARN [2016-08-11 21:02:11,669] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.582
+!MESSAGE  WARN [2016-08-11 21:02:12,572] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.582
+!MESSAGE  WARN [2016-08-11 21:02:12,582] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.582
+!MESSAGE  WARN [2016-08-11 21:02:12,582] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.582
+!MESSAGE  WARN [2016-08-11 21:02:12,582] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.592
+!MESSAGE  WARN [2016-08-11 21:02:12,592] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.592
+!MESSAGE  WARN [2016-08-11 21:02:12,592] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.602
+!MESSAGE  WARN [2016-08-11 21:02:12,592] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.602
+!MESSAGE  WARN [2016-08-11 21:02:12,602] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.602
+!MESSAGE  WARN [2016-08-11 21:02:12,602] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.602
+!MESSAGE  WARN [2016-08-11 21:02:12,602] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.602
+!MESSAGE  WARN [2016-08-11 21:02:12,602] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.612
+!MESSAGE  WARN [2016-08-11 21:02:12,612] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.612
+!MESSAGE  WARN [2016-08-11 21:02:12,612] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.612
+!MESSAGE  WARN [2016-08-11 21:02:12,612] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.612
+!MESSAGE  WARN [2016-08-11 21:02:12,612] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.612
+!MESSAGE  WARN [2016-08-11 21:02:12,612] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:02:12.622
+!MESSAGE  WARN [2016-08-11 21:02:12,612] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.946
+!MESSAGE  WARN [2016-08-11 21:06:31,936] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.946
+!MESSAGE  WARN [2016-08-11 21:06:31,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.946
+!MESSAGE  WARN [2016-08-11 21:06:31,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.956
+!MESSAGE  WARN [2016-08-11 21:06:31,956] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.956
+!MESSAGE  WARN [2016-08-11 21:06:31,956] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.956
+!MESSAGE  WARN [2016-08-11 21:06:31,956] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.966
+!MESSAGE  WARN [2016-08-11 21:06:31,966] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.976
+!MESSAGE  WARN [2016-08-11 21:06:31,966] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.976
+!MESSAGE  WARN [2016-08-11 21:06:31,976] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.976
+!MESSAGE  WARN [2016-08-11 21:06:31,976] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.976
+!MESSAGE  WARN [2016-08-11 21:06:31,976] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.976
+!MESSAGE  WARN [2016-08-11 21:06:31,976] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.976
+!MESSAGE  WARN [2016-08-11 21:06:31,976] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.986
+!MESSAGE  WARN [2016-08-11 21:06:31,986] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.986
+!MESSAGE  WARN [2016-08-11 21:06:31,986] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.986
+!MESSAGE  WARN [2016-08-11 21:06:31,986] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:31.986
+!MESSAGE  WARN [2016-08-11 21:06:31,986] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.925
+!MESSAGE  WARN [2016-08-11 21:06:32,915] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.925
+!MESSAGE  WARN [2016-08-11 21:06:32,925] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.925
+!MESSAGE  WARN [2016-08-11 21:06:32,925] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.925
+!MESSAGE  WARN [2016-08-11 21:06:32,925] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.935
+!MESSAGE  WARN [2016-08-11 21:06:32,935] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.935
+!MESSAGE  WARN [2016-08-11 21:06:32,935] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.935
+!MESSAGE  WARN [2016-08-11 21:06:32,935] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.945
+!MESSAGE  WARN [2016-08-11 21:06:32,935] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.945
+!MESSAGE  WARN [2016-08-11 21:06:32,945] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.945
+!MESSAGE  WARN [2016-08-11 21:06:32,945] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.945
+!MESSAGE  WARN [2016-08-11 21:06:32,945] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.945
+!MESSAGE  WARN [2016-08-11 21:06:32,945] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.945
+!MESSAGE  WARN [2016-08-11 21:06:32,945] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.945
+!MESSAGE  WARN [2016-08-11 21:06:32,945] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.945
+!MESSAGE  WARN [2016-08-11 21:06:32,945] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.955
+!MESSAGE  WARN [2016-08-11 21:06:32,945] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:06:32.955
+!MESSAGE  WARN [2016-08-11 21:06:32,955] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.687
+!MESSAGE  WARN [2016-08-11 21:08:24,677] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.687
+!MESSAGE  WARN [2016-08-11 21:08:24,687] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.687
+!MESSAGE  WARN [2016-08-11 21:08:24,687] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.697
+!MESSAGE  WARN [2016-08-11 21:08:24,687] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.697
+!MESSAGE  WARN [2016-08-11 21:08:24,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.697
+!MESSAGE  WARN [2016-08-11 21:08:24,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.707
+!MESSAGE  WARN [2016-08-11 21:08:24,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.707
+!MESSAGE  WARN [2016-08-11 21:08:24,707] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.707
+!MESSAGE  WARN [2016-08-11 21:08:24,707] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.707
+!MESSAGE  WARN [2016-08-11 21:08:24,707] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.707
+!MESSAGE  WARN [2016-08-11 21:08:24,707] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.707
+!MESSAGE  WARN [2016-08-11 21:08:24,707] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.717
+!MESSAGE  WARN [2016-08-11 21:08:24,707] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.717
+!MESSAGE  WARN [2016-08-11 21:08:24,717] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.717
+!MESSAGE  WARN [2016-08-11 21:08:24,717] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.717
+!MESSAGE  WARN [2016-08-11 21:08:24,717] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:24.717
+!MESSAGE  WARN [2016-08-11 21:08:24,717] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.656
+!MESSAGE  WARN [2016-08-11 21:08:25,654] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.667
+!MESSAGE  WARN [2016-08-11 21:08:25,656] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.677
+!MESSAGE  WARN [2016-08-11 21:08:25,677] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.677
+!MESSAGE  WARN [2016-08-11 21:08:25,677] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.677
+!MESSAGE  WARN [2016-08-11 21:08:25,677] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.687
+!MESSAGE  WARN [2016-08-11 21:08:25,677] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.687
+!MESSAGE  WARN [2016-08-11 21:08:25,687] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.687
+!MESSAGE  WARN [2016-08-11 21:08:25,687] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.697
+!MESSAGE  WARN [2016-08-11 21:08:25,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.697
+!MESSAGE  WARN [2016-08-11 21:08:25,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.697
+!MESSAGE  WARN [2016-08-11 21:08:25,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.697
+!MESSAGE  WARN [2016-08-11 21:08:25,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.697
+!MESSAGE  WARN [2016-08-11 21:08:25,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.697
+!MESSAGE  WARN [2016-08-11 21:08:25,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.697
+!MESSAGE  WARN [2016-08-11 21:08:25,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.707
+!MESSAGE  WARN [2016-08-11 21:08:25,697] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:08:25.707
+!MESSAGE  WARN [2016-08-11 21:08:25,707] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:10:45.541
+!MESSAGE  WARN [2016-08-11 21:10:45,541] (BaseRetryAspect.java:isLoginExceptionRetryable:115) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:10:45.551
+!MESSAGE  WARN [2016-08-11 21:10:45,551] (BaseRetryAspect.java:isConnectionExceptionRetryable:150) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:10:45.551
+!MESSAGE  WARN [2016-08-11 21:10:45,551] (ProjectController.java:getRemotePackageNames:930) - Unable to get project packages for project 'newproj': Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:10:45.571
+!MESSAGE  WARN [2016-08-11 21:10:45,571] (ProjectOrganizationPage.java:prepareNextPage:263) - Unable to login: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:03.810
+!MESSAGE  WARN [2016-08-11 21:11:03,810] (BaseRetryAspect.java:isLoginExceptionRetryable:115) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:03.820
+!MESSAGE  WARN [2016-08-11 21:11:03,810] (BaseRetryAspect.java:isConnectionExceptionRetryable:150) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:03.820
+!MESSAGE  WARN [2016-08-11 21:11:03,820] (ProjectController.java:getRemotePackageNames:930) - Unable to get project packages for project 'newproj': Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:03.840
+!MESSAGE  WARN [2016-08-11 21:11:03,840] (ProjectOrganizationPage.java:prepareNextPage:263) - Unable to login: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.187
+!MESSAGE  WARN [2016-08-11 21:11:13,187] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.187
+!MESSAGE  WARN [2016-08-11 21:11:13,187] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.187
+!MESSAGE  WARN [2016-08-11 21:11:13,187] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.187
+!MESSAGE  WARN [2016-08-11 21:11:13,187] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.197
+!MESSAGE  WARN [2016-08-11 21:11:13,197] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.197
+!MESSAGE  WARN [2016-08-11 21:11:13,197] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.197
+!MESSAGE  WARN [2016-08-11 21:11:13,197] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.207
+!MESSAGE  WARN [2016-08-11 21:11:13,207] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.207
+!MESSAGE  WARN [2016-08-11 21:11:13,207] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.217
+!MESSAGE  WARN [2016-08-11 21:11:13,207] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.217
+!MESSAGE  WARN [2016-08-11 21:11:13,217] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.217
+!MESSAGE  WARN [2016-08-11 21:11:13,217] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.217
+!MESSAGE  WARN [2016-08-11 21:11:13,217] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.217
+!MESSAGE  WARN [2016-08-11 21:11:13,217] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.227
+!MESSAGE  WARN [2016-08-11 21:11:13,217] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.227
+!MESSAGE  WARN [2016-08-11 21:11:13,227] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:13.227
+!MESSAGE  WARN [2016-08-11 21:11:13,227] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.140
+!MESSAGE  WARN [2016-08-11 21:11:14,140] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.150
+!MESSAGE  WARN [2016-08-11 21:11:14,140] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.150
+!MESSAGE  WARN [2016-08-11 21:11:14,150] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.150
+!MESSAGE  WARN [2016-08-11 21:11:14,150] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.150
+!MESSAGE  WARN [2016-08-11 21:11:14,150] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.160
+!MESSAGE  WARN [2016-08-11 21:11:14,160] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.160
+!MESSAGE  WARN [2016-08-11 21:11:14,160] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.161
+!MESSAGE  WARN [2016-08-11 21:11:14,161] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.172
+!MESSAGE  WARN [2016-08-11 21:11:14,171] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.172
+!MESSAGE  WARN [2016-08-11 21:11:14,172] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.172
+!MESSAGE  WARN [2016-08-11 21:11:14,172] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.174
+!MESSAGE  WARN [2016-08-11 21:11:14,173] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.177
+!MESSAGE  WARN [2016-08-11 21:11:14,174] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.180
+!MESSAGE  WARN [2016-08-11 21:11:14,178] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.182
+!MESSAGE  WARN [2016-08-11 21:11:14,181] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.183
+!MESSAGE  WARN [2016-08-11 21:11:14,182] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:11:14.185
+!MESSAGE  WARN [2016-08-11 21:11:14,184] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.379
+!MESSAGE  WARN [2016-08-11 21:33:02,379] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.379
+!MESSAGE  WARN [2016-08-11 21:33:02,379] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.389
+!MESSAGE  WARN [2016-08-11 21:33:02,379] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.389
+!MESSAGE  WARN [2016-08-11 21:33:02,389] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.389
+!MESSAGE  WARN [2016-08-11 21:33:02,389] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.399
+!MESSAGE  WARN [2016-08-11 21:33:02,399] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.409
+!MESSAGE  WARN [2016-08-11 21:33:02,409] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.413
+!MESSAGE  WARN [2016-08-11 21:33:02,412] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.416
+!MESSAGE  WARN [2016-08-11 21:33:02,415] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.417
+!MESSAGE  WARN [2016-08-11 21:33:02,416] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.422
+!MESSAGE  WARN [2016-08-11 21:33:02,421] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.425
+!MESSAGE  WARN [2016-08-11 21:33:02,424] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.427
+!MESSAGE  WARN [2016-08-11 21:33:02,426] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.428
+!MESSAGE  WARN [2016-08-11 21:33:02,427] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.429
+!MESSAGE  WARN [2016-08-11 21:33:02,428] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.431
+!MESSAGE  WARN [2016-08-11 21:33:02,430] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:02.433
+!MESSAGE  WARN [2016-08-11 21:33:02,432] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.421
+!MESSAGE  WARN [2016-08-11 21:33:03,421] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.421
+!MESSAGE  WARN [2016-08-11 21:33:03,421] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.431
+!MESSAGE  WARN [2016-08-11 21:33:03,431] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.431
+!MESSAGE  WARN [2016-08-11 21:33:03,431] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.431
+!MESSAGE  WARN [2016-08-11 21:33:03,431] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.441
+!MESSAGE  WARN [2016-08-11 21:33:03,441] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.451
+!MESSAGE  WARN [2016-08-11 21:33:03,451] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.451
+!MESSAGE  WARN [2016-08-11 21:33:03,451] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.451
+!MESSAGE  WARN [2016-08-11 21:33:03,451] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.451
+!MESSAGE  WARN [2016-08-11 21:33:03,451] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.461
+!MESSAGE  WARN [2016-08-11 21:33:03,461] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.461
+!MESSAGE  WARN [2016-08-11 21:33:03,461] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.461
+!MESSAGE  WARN [2016-08-11 21:33:03,461] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.461
+!MESSAGE  WARN [2016-08-11 21:33:03,461] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.461
+!MESSAGE  WARN [2016-08-11 21:33:03,461] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.461
+!MESSAGE  WARN [2016-08-11 21:33:03,461] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:33:03.462
+!MESSAGE  WARN [2016-08-11 21:33:03,461] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.555
+!MESSAGE  WARN [2016-08-11 21:36:10,555] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.565
+!MESSAGE  WARN [2016-08-11 21:36:10,555] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.565
+!MESSAGE  WARN [2016-08-11 21:36:10,565] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.565
+!MESSAGE  WARN [2016-08-11 21:36:10,565] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.565
+!MESSAGE  WARN [2016-08-11 21:36:10,565] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.575
+!MESSAGE  WARN [2016-08-11 21:36:10,575] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.575
+!MESSAGE  WARN [2016-08-11 21:36:10,575] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.575
+!MESSAGE  WARN [2016-08-11 21:36:10,575] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.585
+!MESSAGE  WARN [2016-08-11 21:36:10,575] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.585
+!MESSAGE  WARN [2016-08-11 21:36:10,585] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.585
+!MESSAGE  WARN [2016-08-11 21:36:10,585] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.585
+!MESSAGE  WARN [2016-08-11 21:36:10,585] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.585
+!MESSAGE  WARN [2016-08-11 21:36:10,585] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.585
+!MESSAGE  WARN [2016-08-11 21:36:10,585] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.585
+!MESSAGE  WARN [2016-08-11 21:36:10,585] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.585
+!MESSAGE  WARN [2016-08-11 21:36:10,585] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:10.595
+!MESSAGE  WARN [2016-08-11 21:36:10,585] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.535
+!MESSAGE  WARN [2016-08-11 21:36:11,535] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.545
+!MESSAGE  WARN [2016-08-11 21:36:11,545] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.545
+!MESSAGE  WARN [2016-08-11 21:36:11,545] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.545
+!MESSAGE  WARN [2016-08-11 21:36:11,545] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.545
+!MESSAGE  WARN [2016-08-11 21:36:11,545] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.555
+!MESSAGE  WARN [2016-08-11 21:36:11,555] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.555
+!MESSAGE  WARN [2016-08-11 21:36:11,555] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.565
+!MESSAGE  WARN [2016-08-11 21:36:11,555] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.565
+!MESSAGE  WARN [2016-08-11 21:36:11,565] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.565
+!MESSAGE  WARN [2016-08-11 21:36:11,565] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.565
+!MESSAGE  WARN [2016-08-11 21:36:11,565] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.565
+!MESSAGE  WARN [2016-08-11 21:36:11,565] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.565
+!MESSAGE  WARN [2016-08-11 21:36:11,565] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.575
+!MESSAGE  WARN [2016-08-11 21:36:11,565] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.575
+!MESSAGE  WARN [2016-08-11 21:36:11,575] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.575
+!MESSAGE  WARN [2016-08-11 21:36:11,575] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:36:11.575
+!MESSAGE  WARN [2016-08-11 21:36:11,575] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:02.954
+!MESSAGE  WARN [2016-08-11 21:39:02,954] (BaseRetryAspect.java:isLoginExceptionRetryable:115) - Login evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:02.954
+!MESSAGE  WARN [2016-08-11 21:39:02,954] (BaseRetryAspect.java:isConnectionExceptionRetryable:150) - Connection evaluation deemed exception not retry-able:
+ LoginFault: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:02.954
+!MESSAGE  WARN [2016-08-11 21:39:02,954] (ProjectController.java:getRemotePackageNames:930) - Unable to get project packages for project 'newrepp2': Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:02.984
+!MESSAGE  WARN [2016-08-11 21:39:02,984] (ProjectOrganizationPage.java:prepareNextPage:263) - Unable to login: Invalid username, password, security token; or user locked out.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.984
+!MESSAGE  WARN [2016-08-11 21:39:13,984] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.984
+!MESSAGE  WARN [2016-08-11 21:39:13,984] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.984
+!MESSAGE  WARN [2016-08-11 21:39:13,984] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.984
+!MESSAGE  WARN [2016-08-11 21:39:13,984] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.984
+!MESSAGE  WARN [2016-08-11 21:39:13,984] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.994
+!MESSAGE  WARN [2016-08-11 21:39:13,994] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.994
+!MESSAGE  WARN [2016-08-11 21:39:13,994] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.995
+!MESSAGE  WARN [2016-08-11 21:39:13,995] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.995
+!MESSAGE  WARN [2016-08-11 21:39:13,995] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.995
+!MESSAGE  WARN [2016-08-11 21:39:13,995] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.995
+!MESSAGE  WARN [2016-08-11 21:39:13,995] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.995
+!MESSAGE  WARN [2016-08-11 21:39:13,995] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.995
+!MESSAGE  WARN [2016-08-11 21:39:13,995] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.996
+!MESSAGE  WARN [2016-08-11 21:39:13,995] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.997
+!MESSAGE  WARN [2016-08-11 21:39:13,996] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:13.999
+!MESSAGE  WARN [2016-08-11 21:39:13,998] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.000
+!MESSAGE  WARN [2016-08-11 21:39:13,999] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.904
+!MESSAGE  WARN [2016-08-11 21:39:14,904] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.904
+!MESSAGE  WARN [2016-08-11 21:39:14,904] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.914
+!MESSAGE  WARN [2016-08-11 21:39:14,904] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.914
+!MESSAGE  WARN [2016-08-11 21:39:14,914] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.914
+!MESSAGE  WARN [2016-08-11 21:39:14,914] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.914
+!MESSAGE  WARN [2016-08-11 21:39:14,914] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.924
+!MESSAGE  WARN [2016-08-11 21:39:14,924] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.924
+!MESSAGE  WARN [2016-08-11 21:39:14,924] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.924
+!MESSAGE  WARN [2016-08-11 21:39:14,924] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.924
+!MESSAGE  WARN [2016-08-11 21:39:14,924] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.934
+!MESSAGE  WARN [2016-08-11 21:39:14,934] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.934
+!MESSAGE  WARN [2016-08-11 21:39:14,934] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.934
+!MESSAGE  WARN [2016-08-11 21:39:14,934] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.934
+!MESSAGE  WARN [2016-08-11 21:39:14,934] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.934
+!MESSAGE  WARN [2016-08-11 21:39:14,934] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.934
+!MESSAGE  WARN [2016-08-11 21:39:14,934] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:14.934
+!MESSAGE  WARN [2016-08-11 21:39:14,934] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:26.186
+!MESSAGE  WARN [2016-08-11 21:39:26,186] (Utils.java:loadDocument:800) - Unable to load document: C:\Users\amit.vasudevan\workspace\.metadata\.plugins\com.salesforce.ide.core\packageCache.xml (The system cannot find the file specified)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.124
+!MESSAGE  WARN [2016-08-11 21:39:27,124] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.124
+!MESSAGE  WARN [2016-08-11 21:39:27,124] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.124
+!MESSAGE  WARN [2016-08-11 21:39:27,124] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.134
+!MESSAGE  WARN [2016-08-11 21:39:27,124] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.134
+!MESSAGE  WARN [2016-08-11 21:39:27,134] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.134
+!MESSAGE  WARN [2016-08-11 21:39:27,134] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.144
+!MESSAGE  WARN [2016-08-11 21:39:27,144] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.144
+!MESSAGE  WARN [2016-08-11 21:39:27,144] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.164
+!MESSAGE  WARN [2016-08-11 21:39:27,144] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.165
+!MESSAGE  WARN [2016-08-11 21:39:27,164] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.165
+!MESSAGE  WARN [2016-08-11 21:39:27,165] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.165
+!MESSAGE  WARN [2016-08-11 21:39:27,165] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.165
+!MESSAGE  WARN [2016-08-11 21:39:27,165] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.165
+!MESSAGE  WARN [2016-08-11 21:39:27,165] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.165
+!MESSAGE  WARN [2016-08-11 21:39:27,165] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.165
+!MESSAGE  WARN [2016-08-11 21:39:27,165] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:27.167
+!MESSAGE  WARN [2016-08-11 21:39:27,166] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.174
+!MESSAGE  WARN [2016-08-11 21:39:28,174] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.174
+!MESSAGE  WARN [2016-08-11 21:39:28,174] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.184
+!MESSAGE  WARN [2016-08-11 21:39:28,174] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.184
+!MESSAGE  WARN [2016-08-11 21:39:28,184] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.184
+!MESSAGE  WARN [2016-08-11 21:39:28,184] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.194
+!MESSAGE  WARN [2016-08-11 21:39:28,194] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.204
+!MESSAGE  WARN [2016-08-11 21:39:28,194] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.204
+!MESSAGE  WARN [2016-08-11 21:39:28,204] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.214
+!MESSAGE  WARN [2016-08-11 21:39:28,204] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.214
+!MESSAGE  WARN [2016-08-11 21:39:28,214] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.214
+!MESSAGE  WARN [2016-08-11 21:39:28,214] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.224
+!MESSAGE  WARN [2016-08-11 21:39:28,224] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.224
+!MESSAGE  WARN [2016-08-11 21:39:28,224] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.224
+!MESSAGE  WARN [2016-08-11 21:39:28,224] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.224
+!MESSAGE  WARN [2016-08-11 21:39:28,224] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.224
+!MESSAGE  WARN [2016-08-11 21:39:28,224] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:28.224
+!MESSAGE  WARN [2016-08-11 21:39:28,224] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.092
+!MESSAGE  WARN [2016-08-11 21:39:29,092] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.092
+!MESSAGE  WARN [2016-08-11 21:39:29,092] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.102
+!MESSAGE  WARN [2016-08-11 21:39:29,102] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.102
+!MESSAGE  WARN [2016-08-11 21:39:29,102] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.102
+!MESSAGE  WARN [2016-08-11 21:39:29,102] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.112
+!MESSAGE  WARN [2016-08-11 21:39:29,112] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.112
+!MESSAGE  WARN [2016-08-11 21:39:29,112] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.122
+!MESSAGE  WARN [2016-08-11 21:39:29,122] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.122
+!MESSAGE  WARN [2016-08-11 21:39:29,122] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.122
+!MESSAGE  WARN [2016-08-11 21:39:29,122] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.122
+!MESSAGE  WARN [2016-08-11 21:39:29,122] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.132
+!MESSAGE  WARN [2016-08-11 21:39:29,132] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.132
+!MESSAGE  WARN [2016-08-11 21:39:29,132] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.132
+!MESSAGE  WARN [2016-08-11 21:39:29,132] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.132
+!MESSAGE  WARN [2016-08-11 21:39:29,132] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.132
+!MESSAGE  WARN [2016-08-11 21:39:29,132] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:29.142
+!MESSAGE  WARN [2016-08-11 21:39:29,132] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.007
+!MESSAGE  WARN [2016-08-11 21:39:30,007] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.017
+!MESSAGE  WARN [2016-08-11 21:39:30,017] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.017
+!MESSAGE  WARN [2016-08-11 21:39:30,017] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.017
+!MESSAGE  WARN [2016-08-11 21:39:30,017] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.017
+!MESSAGE  WARN [2016-08-11 21:39:30,017] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.027
+!MESSAGE  WARN [2016-08-11 21:39:30,027] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.027
+!MESSAGE  WARN [2016-08-11 21:39:30,027] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.037
+!MESSAGE  WARN [2016-08-11 21:39:30,027] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.037
+!MESSAGE  WARN [2016-08-11 21:39:30,037] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.037
+!MESSAGE  WARN [2016-08-11 21:39:30,037] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.037
+!MESSAGE  WARN [2016-08-11 21:39:30,037] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.037
+!MESSAGE  WARN [2016-08-11 21:39:30,037] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.047
+!MESSAGE  WARN [2016-08-11 21:39:30,047] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.047
+!MESSAGE  WARN [2016-08-11 21:39:30,047] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.047
+!MESSAGE  WARN [2016-08-11 21:39:30,047] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.047
+!MESSAGE  WARN [2016-08-11 21:39:30,047] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.047
+!MESSAGE  WARN [2016-08-11 21:39:30,047] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.964
+!MESSAGE  WARN [2016-08-11 21:39:30,954] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.964
+!MESSAGE  WARN [2016-08-11 21:39:30,964] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.964
+!MESSAGE  WARN [2016-08-11 21:39:30,964] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.964
+!MESSAGE  WARN [2016-08-11 21:39:30,964] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.974
+!MESSAGE  WARN [2016-08-11 21:39:30,974] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.974
+!MESSAGE  WARN [2016-08-11 21:39:30,974] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.984
+!MESSAGE  WARN [2016-08-11 21:39:30,974] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.984
+!MESSAGE  WARN [2016-08-11 21:39:30,984] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.984
+!MESSAGE  WARN [2016-08-11 21:39:30,984] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.984
+!MESSAGE  WARN [2016-08-11 21:39:30,984] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.994
+!MESSAGE  WARN [2016-08-11 21:39:30,994] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.994
+!MESSAGE  WARN [2016-08-11 21:39:30,994] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.994
+!MESSAGE  WARN [2016-08-11 21:39:30,994] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.994
+!MESSAGE  WARN [2016-08-11 21:39:30,994] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:30.994
+!MESSAGE  WARN [2016-08-11 21:39:30,994] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:31.004
+!MESSAGE  WARN [2016-08-11 21:39:31,004] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:31.004
+!MESSAGE  WARN [2016-08-11 21:39:31,004] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.393
+!MESSAGE  WARN [2016-08-11 21:39:49,393] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.413
+!MESSAGE  WARN [2016-08-11 21:39:49,413] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.423
+!MESSAGE  WARN [2016-08-11 21:39:49,423] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'BusinessProcess': Unable to get bean for id 'BusinessProcess'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.423
+!MESSAGE  WARN [2016-08-11 21:39:49,423] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.433
+!MESSAGE  WARN [2016-08-11 21:39:49,423] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.433
+!MESSAGE  WARN [2016-08-11 21:39:49,433] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CompactLayout': Unable to get bean for id 'CompactLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.433
+!MESSAGE  WARN [2016-08-11 21:39:49,433] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.443
+!MESSAGE  WARN [2016-08-11 21:39:49,443] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.443
+!MESSAGE  WARN [2016-08-11 21:39:49,443] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomField': Unable to get bean for id 'CustomField'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.443
+!MESSAGE  WARN [2016-08-11 21:39:49,443] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomLabel': Unable to get bean for id 'CustomLabel'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.926
+!MESSAGE  WARN [2016-08-11 21:39:49,926] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.926
+!MESSAGE  WARN [2016-08-11 21:39:49,926] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.936
+!MESSAGE  WARN [2016-08-11 21:39:49,926] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.936
+!MESSAGE  WARN [2016-08-11 21:39:49,936] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.936
+!MESSAGE  WARN [2016-08-11 21:39:49,936] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.936
+!MESSAGE  WARN [2016-08-11 21:39:49,936] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.936
+!MESSAGE  WARN [2016-08-11 21:39:49,936] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.946
+!MESSAGE  WARN [2016-08-11 21:39:49,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.946
+!MESSAGE  WARN [2016-08-11 21:39:49,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.946
+!MESSAGE  WARN [2016-08-11 21:39:49,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.946
+!MESSAGE  WARN [2016-08-11 21:39:49,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.946
+!MESSAGE  WARN [2016-08-11 21:39:49,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.946
+!MESSAGE  WARN [2016-08-11 21:39:49,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.946
+!MESSAGE  WARN [2016-08-11 21:39:49,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.956
+!MESSAGE  WARN [2016-08-11 21:39:49,946] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.956
+!MESSAGE  WARN [2016-08-11 21:39:49,956] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:49.956
+!MESSAGE  WARN [2016-08-11 21:39:49,956] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.400
+!MESSAGE  WARN [2016-08-11 21:39:50,400] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.873
+!MESSAGE  WARN [2016-08-11 21:39:50,863] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.873
+!MESSAGE  WARN [2016-08-11 21:39:50,873] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.873
+!MESSAGE  WARN [2016-08-11 21:39:50,873] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.873
+!MESSAGE  WARN [2016-08-11 21:39:50,873] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.883
+!MESSAGE  WARN [2016-08-11 21:39:50,873] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.883
+!MESSAGE  WARN [2016-08-11 21:39:50,883] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.883
+!MESSAGE  WARN [2016-08-11 21:39:50,883] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.893
+!MESSAGE  WARN [2016-08-11 21:39:50,883] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.893
+!MESSAGE  WARN [2016-08-11 21:39:50,893] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.893
+!MESSAGE  WARN [2016-08-11 21:39:50,893] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.893
+!MESSAGE  WARN [2016-08-11 21:39:50,893] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.893
+!MESSAGE  WARN [2016-08-11 21:39:50,893] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.903
+!MESSAGE  WARN [2016-08-11 21:39:50,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.903
+!MESSAGE  WARN [2016-08-11 21:39:50,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.903
+!MESSAGE  WARN [2016-08-11 21:39:50,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.903
+!MESSAGE  WARN [2016-08-11 21:39:50,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:50.903
+!MESSAGE  WARN [2016-08-11 21:39:50,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.793
+!MESSAGE  WARN [2016-08-11 21:39:51,793] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.803
+!MESSAGE  WARN [2016-08-11 21:39:51,803] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.803
+!MESSAGE  WARN [2016-08-11 21:39:51,803] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.803
+!MESSAGE  WARN [2016-08-11 21:39:51,803] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.813
+!MESSAGE  WARN [2016-08-11 21:39:51,813] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.813
+!MESSAGE  WARN [2016-08-11 21:39:51,813] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.823
+!MESSAGE  WARN [2016-08-11 21:39:51,823] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.833
+!MESSAGE  WARN [2016-08-11 21:39:51,833] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.833
+!MESSAGE  WARN [2016-08-11 21:39:51,833] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.833
+!MESSAGE  WARN [2016-08-11 21:39:51,833] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.833
+!MESSAGE  WARN [2016-08-11 21:39:51,833] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.834
+!MESSAGE  WARN [2016-08-11 21:39:51,833] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.834
+!MESSAGE  WARN [2016-08-11 21:39:51,834] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.834
+!MESSAGE  WARN [2016-08-11 21:39:51,834] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.834
+!MESSAGE  WARN [2016-08-11 21:39:51,834] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.834
+!MESSAGE  WARN [2016-08-11 21:39:51,834] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:51.836
+!MESSAGE  WARN [2016-08-11 21:39:51,835] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.303
+!MESSAGE  WARN [2016-08-11 21:39:52,303] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.303
+!MESSAGE  WARN [2016-08-11 21:39:52,303] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FieldSet': Unable to get bean for id 'FieldSet'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.313
+!MESSAGE  WARN [2016-08-11 21:39:52,313] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.313
+!MESSAGE  WARN [2016-08-11 21:39:52,313] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.333
+!MESSAGE  WARN [2016-08-11 21:39:52,333] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ListView': Unable to get bean for id 'ListView'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.333
+!MESSAGE  WARN [2016-08-11 21:39:52,333] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRule': Unable to get bean for id 'MatchingRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.333
+!MESSAGE  WARN [2016-08-11 21:39:52,333] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.334
+!MESSAGE  WARN [2016-08-11 21:39:52,334] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.334
+!MESSAGE  WARN [2016-08-11 21:39:52,334] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.334
+!MESSAGE  WARN [2016-08-11 21:39:52,334] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.341
+!MESSAGE  WARN [2016-08-11 21:39:52,340] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'RecordType': Unable to get bean for id 'RecordType'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.863
+!MESSAGE  WARN [2016-08-11 21:39:52,863] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.863
+!MESSAGE  WARN [2016-08-11 21:39:52,863] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.863
+!MESSAGE  WARN [2016-08-11 21:39:52,863] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.863
+!MESSAGE  WARN [2016-08-11 21:39:52,863] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.873
+!MESSAGE  WARN [2016-08-11 21:39:52,873] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.883
+!MESSAGE  WARN [2016-08-11 21:39:52,873] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.893
+!MESSAGE  WARN [2016-08-11 21:39:52,893] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.893
+!MESSAGE  WARN [2016-08-11 21:39:52,893] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.893
+!MESSAGE  WARN [2016-08-11 21:39:52,893] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.903
+!MESSAGE  WARN [2016-08-11 21:39:52,893] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.903
+!MESSAGE  WARN [2016-08-11 21:39:52,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.903
+!MESSAGE  WARN [2016-08-11 21:39:52,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.903
+!MESSAGE  WARN [2016-08-11 21:39:52,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.903
+!MESSAGE  WARN [2016-08-11 21:39:52,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.913
+!MESSAGE  WARN [2016-08-11 21:39:52,903] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SynonymDictionary': Unable to get bean for id 'SynonymDictionary'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.913
+!MESSAGE  WARN [2016-08-11 21:39:52,913] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:52.913
+!MESSAGE  WARN [2016-08-11 21:39:52,913] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.355
+!MESSAGE  WARN [2016-08-11 21:39:53,355] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingCriteriaRule': Unable to get bean for id 'SharingCriteriaRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.365
+!MESSAGE  WARN [2016-08-11 21:39:53,365] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingOwnerRule': Unable to get bean for id 'SharingOwnerRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.365
+!MESSAGE  WARN [2016-08-11 21:39:53,365] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingReason': Unable to get bean for id 'SharingReason'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.365
+!MESSAGE  WARN [2016-08-11 21:39:53,365] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.375
+!MESSAGE  WARN [2016-08-11 21:39:53,375] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.385
+!MESSAGE  WARN [2016-08-11 21:39:53,375] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ValidationRule': Unable to get bean for id 'ValidationRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.385
+!MESSAGE  WARN [2016-08-11 21:39:53,385] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'WebLink': Unable to get bean for id 'WebLink'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.385
+!MESSAGE  WARN [2016-08-11 21:39:53,385] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'WorkflowAlert': Unable to get bean for id 'WorkflowAlert'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.385
+!MESSAGE  WARN [2016-08-11 21:39:53,385] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'WorkflowFieldUpdate': Unable to get bean for id 'WorkflowFieldUpdate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.395
+!MESSAGE  WARN [2016-08-11 21:39:53,385] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'WorkflowKnowledgePublish': Unable to get bean for id 'WorkflowKnowledgePublish'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.395
+!MESSAGE  WARN [2016-08-11 21:39:53,395] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'WorkflowOutboundMessage': Unable to get bean for id 'WorkflowOutboundMessage'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.395
+!MESSAGE  WARN [2016-08-11 21:39:53,395] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'WorkflowRule': Unable to get bean for id 'WorkflowRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.395
+!MESSAGE  WARN [2016-08-11 21:39:53,395] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'WorkflowSend': Unable to get bean for id 'WorkflowSend'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.395
+!MESSAGE  WARN [2016-08-11 21:39:53,395] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'WorkflowTask': Unable to get bean for id 'WorkflowTask'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.419
+!MESSAGE  WARN [2016-08-11 21:39:53,418] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ActionLinkGroupTemplate': Unable to get bean for id 'ActionLinkGroupTemplate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.425
+!MESSAGE  WARN [2016-08-11 21:39:53,424] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'AuraDefinitionBundle': Unable to get bean for id 'AuraDefinitionBundle'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.428
+!MESSAGE  WARN [2016-08-11 21:39:53,427] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'Certificate': Unable to get bean for id 'Certificate'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.429
+!MESSAGE  WARN [2016-08-11 21:39:53,428] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ChannelLayout': Unable to get bean for id 'ChannelLayout'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.431
+!MESSAGE  WARN [2016-08-11 21:39:53,430] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CorsWhitelistOrigin': Unable to get bean for id 'CorsWhitelistOrigin'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.434
+!MESSAGE  WARN [2016-08-11 21:39:53,433] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'CustomFeedFilter': Unable to get bean for id 'CustomFeedFilter'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.439
+!MESSAGE  WARN [2016-08-11 21:39:53,438] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'DelegateGroup': Unable to get bean for id 'DelegateGroup'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.444
+!MESSAGE  WARN [2016-08-11 21:39:53,444] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'ExternalDataSource': Unable to get bean for id 'ExternalDataSource'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.449
+!MESSAGE  WARN [2016-08-11 21:39:53,448] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'FlowDefinition': Unable to get bean for id 'FlowDefinition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.450
+!MESSAGE  WARN [2016-08-11 21:39:53,449] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'GlobalPicklist': Unable to get bean for id 'GlobalPicklist'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.454
+!MESSAGE  WARN [2016-08-11 21:39:53,453] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRule': Unable to get bean for id 'MatchingRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.456
+!MESSAGE  WARN [2016-08-11 21:39:53,455] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'MatchingRules': Unable to get bean for id 'MatchingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.458
+!MESSAGE  WARN [2016-08-11 21:39:53,457] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'NamedCredential': Unable to get bean for id 'NamedCredential'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.460
+!MESSAGE  WARN [2016-08-11 21:39:53,459] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PathAssistant': Unable to get bean for id 'PathAssistant'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.463
+!MESSAGE  WARN [2016-08-11 21:39:53,461] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'PlatformCachePartition': Unable to get bean for id 'PlatformCachePartition'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.474
+!MESSAGE  WARN [2016-08-11 21:39:53,472] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingCriteriaRule': Unable to get bean for id 'SharingCriteriaRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.475
+!MESSAGE  WARN [2016-08-11 21:39:53,475] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingOwnerRule': Unable to get bean for id 'SharingOwnerRule'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.477
+!MESSAGE  WARN [2016-08-11 21:39:53,476] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'SharingRules': Unable to get bean for id 'SharingRules'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:39:53.481
+!MESSAGE  WARN [2016-08-11 21:39:53,480] (ComponentFactory.java:getComponentBean:1149) - Unable to get component for id 'TransactionSecurityPolicy': Unable to get bean for id 'TransactionSecurityPolicy'
+
+
+!ENTRY org.eclipse.jface 2 0 2016-08-11 21:39:53.645
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.checkBusy(ColumnViewer.java:781)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:548)
+	at org.eclipse.jface.viewers.StructuredViewer.refresh(StructuredViewer.java:1490)
+	at org.eclipse.ui.dialogs.FilteredTree$2.runInUIThread(FilteredTree.java:523)
+	at org.eclipse.ui.progress.UIJob$1.run(UIJob.java:95)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:334)
+	at org.eclipse.jface.dialogs.MessageDialog.open(MessageDialog.java:364)
+	at org.eclipse.jface.dialogs.MessageDialog.openWarning(MessageDialog.java:473)
+	at com.salesforce.ide.core.internal.utils.Utils.openWarn(Utils.java:355)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestController.logAndDisplayWarnMsgIfNeeded(PackageManifestController.java:734)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestController.createModel(PackageManifestController.java:855)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestController.updateManifest(PackageManifestController.java:173)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestController.getEnabledCompTypeTreeNodes(PackageManifestController.java:430)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestTree$ManifestContentProvider.getElements(PackageManifestTree.java:690)
+	at org.eclipse.jface.viewers.StructuredViewer.getRawChildren(StructuredViewer.java:1010)
+	at org.eclipse.jface.viewers.ColumnViewer.getRawChildren(ColumnViewer.java:721)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.getRawChildren(AbstractTreeViewer.java:1351)
+	at org.eclipse.jface.viewers.TreeViewer.getRawChildren(TreeViewer.java:391)
+	at org.eclipse.jface.viewers.StructuredViewer.getFilteredChildren(StructuredViewer.java:917)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.getSortedChildren(AbstractTreeViewer.java:620)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$1.run(AbstractTreeViewer.java:820)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:797)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:644)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:768)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalInitializeTree(AbstractTreeViewer.java:1548)
+	at org.eclipse.jface.viewers.TreeViewer.internalInitializeTree(TreeViewer.java:833)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$5.run(AbstractTreeViewer.java:1532)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1443)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:403)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1404)
+	at org.eclipse.jface.viewers.CheckboxTreeViewer.preservingSelection(CheckboxTreeViewer.java:416)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestTree$PackageManifestTreeViewer.preservingSelection(PackageManifestTree.java:417)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.inputChanged(AbstractTreeViewer.java:1525)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:280)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1690)
+	at com.salesforce.ide.ui.packagemanifest.PackageManifestTree.updateTree(PackageManifestTree.java:1683)
+	at com.salesforce.ide.ui.wizards.project.ProjectCustomComponentsComposite.initialize(ProjectCustomComponentsComposite.java:116)
+	at com.salesforce.ide.ui.wizards.project.ProjectCustomComponentsComposite.<init>(ProjectCustomComponentsComposite.java:72)
+	at com.salesforce.ide.ui.wizards.project.ProjectCustomComponentsDialog.createDialogArea(ProjectCustomComponentsDialog.java:59)
+	at org.eclipse.jface.dialogs.Dialog.createContents(Dialog.java:775)
+	at org.eclipse.jface.window.Window.create(Window.java:432)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1104)
+	at com.salesforce.ide.ui.wizards.project.ProjectCustomComponentsDialog.create(ProjectCustomComponentsDialog.java:156)
+	at org.eclipse.jface.window.Window.open(Window.java:791)
+	at com.salesforce.ide.ui.wizards.project.ProjectProjectContentComposite$8.widgetDefaultSelected(ProjectProjectContentComposite.java:294)
+	at com.salesforce.ide.ui.wizards.project.ProjectProjectContentComposite$8.widgetSelected(ProjectProjectContentComposite.java:309)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.actions.NewProjectAction.run(NewProjectAction.java:117)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard$7.run(GitImportWizard.java:266)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:173)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:388)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:1028)
+	at org.eclipse.egit.ui.internal.clone.GitImportWizard.performFinish(GitImportWizard.java:196)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:827)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:432)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$Import.executeHandler(WizardHandler.java:152)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor85.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:40:15.687
+!MESSAGE  WARN [2016-08-11 21:40:15,687] (ConnectionFactory.java:clearCache:220) - Clearing the following cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:40:15.687
+!MESSAGE  WARN [2016-08-11 21:40:15,687] (DescribeObjectRegistry.java:clearCache:663) - Clearing cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2016-08-11 21:40:15.697
+!MESSAGE  WARN [2016-08-11 21:40:15,687] (MetadataFactory.java:clearCache:128) - Clearing the following cached metadata stubs
+
+!SESSION 2016-08-12 17:09:10.180 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-08-12 17:09:31.442
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\amit.vasudevan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.sse.core 4 4 2016-08-12 17:09:38.716
+!MESSAGE exception deleting old tasks
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/newrepp2/src/package.xml' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:341)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.deleteMarkers(Resource.java:846)
+	at org.eclipse.wst.sse.core.internal.tasks.WorkspaceTaskScanner$1.run(WorkspaceTaskScanner.java:277)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.wst.sse.core.internal.tasks.WorkspaceTaskScanner.replaceTaskMarkers(WorkspaceTaskScanner.java:308)
+	at org.eclipse.wst.sse.core.internal.tasks.WorkspaceTaskScanner.scanFile(WorkspaceTaskScanner.java:448)
+	at org.eclipse.wst.sse.core.internal.tasks.WorkspaceTaskScanner.internalScan(WorkspaceTaskScanner.java:215)
+	at org.eclipse.wst.sse.core.internal.tasks.WorkspaceTaskScanner.internalScan(WorkspaceTaskScanner.java:210)
+	at org.eclipse.wst.sse.core.internal.tasks.WorkspaceTaskScanner.internalScan(WorkspaceTaskScanner.java:210)
+	at org.eclipse.wst.sse.core.internal.tasks.WorkspaceTaskScanner.scan(WorkspaceTaskScanner.java:337)
+	at org.eclipse.wst.sse.core.internal.tasks.TaskScanningJob.run(TaskScanningJob.java:208)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2016-08-12 17:09:38.763
+!MESSAGE Resource '/newrepp2/src/package.xml' does not exist.
