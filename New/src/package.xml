@@ -17,13 +17,10 @@
         <name>ApexTrigger</name>
     </types>
     <types>
-        <members>Dreams__c</members>
-        <name>Dreams</name>
+        <members>Account</members>
+        <name>CustomObject</name>
     </types>
-    <types>
-        <members>Pulse__c</members>
-        <name>Pulse</name>
-    </types>
+    
     <types>
         <members>*</members>
         <name>StaticResource</name>
